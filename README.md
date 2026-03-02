@@ -4,7 +4,7 @@ Cybersecurity portfolio and lab documentation showcasing networking, Linux secur
 
 # Levi Davis (levi0x)
 
-Cybersecurity / IT — building skills through hands-on labs and documentation.
+Cybersecurity / IT focused on hands-on labs, network analysis, and security tooling.
 
 ## Focus Areas
 - 🔐 Linux security fundamentals + tooling
@@ -15,7 +15,7 @@ Cybersecurity / IT — building skills through hands-on labs and documentation.
 See my pinned repositories for:
 - Network Device Discovery Lab
 - Linux Security Quickcheck
-- Linux Basics for Hackers Lab Notes
+- Linux Security Lab Documentation
 - IT Automation Practice
 
 ## Links
